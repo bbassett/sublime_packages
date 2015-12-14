@@ -1,0 +1,17 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AceJump",
+		"Base Encoder",
+		"Colorsublime",
+		"Elixir",
+		"Jade",
+		"Package Control",
+		"Path Tools",
+		"Stylus"
+	]
+}
