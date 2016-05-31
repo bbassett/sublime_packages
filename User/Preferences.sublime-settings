@@ -2,22 +2,25 @@
 	"auto_complete_commit_on_tab": true,
 	"binary_file_patterns":
 	[
-		"node_modules"
+		"node_modules",
+		"_build"
 	],
 	"bold_folder_labels": true,
 	"caret_style": "phase",
 	"color_scheme": "Packages/Colorsublime - Themes/BatmanLight.tmTheme",
 	"detect_indentation": false,
+	"fade_fold_buttons": false,
 	"folder_exclude_patterns":
 	[
 		".svn",
 		".git",
 		".hg",
 		"CVS",
-		"node_modules"
+		"node_modules",
+		"_build"
 	],
 	"font_face": "Monaco",
-	"font_size": 14,
+	"font_size": 12,
 	"ignored_packages":
 	[
 	],

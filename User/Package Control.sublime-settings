@@ -9,9 +9,16 @@
 		"Base Encoder",
 		"Colorsublime",
 		"Elixir",
+		"Floobits",
 		"Jade",
+		"Markdown Extended",
 		"Package Control",
 		"Path Tools",
+		"poe-sublime",
 		"Stylus"
+	],
+	"repositories":
+	[
+		"https://github.com/poegroup/poe-sublime"
 	]
 }
