@@ -46,6 +46,7 @@ Themes creators
  - David Heinemeier Hansson
  - Amy
  - Blackboard
+ - [Kary Foundation](https://github.com/karyfoundation)
  - Thomas Aylott
  - Austin Cummings
  - Jacob Rus
@@ -93,3 +94,8 @@ Themes creators
  - [Younes Zakaria](https://github.com/drcd)
  - [Taiwo Kareem](https://github.com/tushortz) - [Wildlife](https://packagecontrol.io/packages/Wildlife%20Color%20Scheme)
  - [irstacks](https://github.com/irstacks)
+ - [Praveen Puglia](http://praveenpuglia.com)
+ - [Consigliere](http://github.com/clthck)
+ - Giovane de Oliveira ([Mosquito13](https://github.com/Mosquito13))
+ - Odepax ([Mars Peacock](https://github.com/Odepax/mars-peacock))
+ - weop ([weop](https://github.com/weop))
